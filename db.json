@@ -3,7 +3,7 @@
         {
             "id" : 1,
             "userId" : 1,
-            "ridesInGroup" : 0,
+            "ridesInGroup" : "NEVER",
             "daysOfWeek": [
                 0,1,2,3,4,5,6
             ]
@@ -11,7 +11,7 @@
         {
             "id" : 2,
             "userId" : 2,
-            "ridesInGroup" : 1,
+            "ridesInGroup" : "SOMETIMES",
             "daysOfWeek": [
                 0,1,2,3
             ]
@@ -19,7 +19,7 @@
         {
             "id" : 3,
             "userId" : 3,
-            "ridesInGroup" : 2,
+            "ridesInGroup" : "ALWAYS",
             "daysOfWeek": [
                 4,5,6
             ]
@@ -27,7 +27,7 @@
         {
             "id" : 4,
             "userId" : 4,
-            "ridesInGroup" : 0,
+            "ridesInGroup" : "NEVER",
             "daysOfWeek": [
                 0,1,2,3,6
             ]
@@ -35,7 +35,7 @@
         {
             "id" : 5,
             "userId" : 5,
-            "ridesInGroup" : 1,
+            "ridesInGroup" : "SOMETIMES",
             "daysOfWeek": [
                 2,3
             ]
@@ -43,7 +43,7 @@
         {
             "id" : 6,
             "userId" : 6,
-            "ridesInGroup" : 0,
+            "ridesInGroup" : "NEVER",
             "daysOfWeek": [
                 0,1,3,6
             ]
@@ -51,7 +51,7 @@
         {
             "id" : 7,
             "userId" : 7,
-            "ridesInGroup" : 1,
+            "ridesInGroup" : "SOMETIMES",
             "daysOfWeek": [
                 0,2,3
             ]
@@ -59,7 +59,7 @@
         {
             "id" : 8,
             "userId" : 8,
-            "ridesInGroup" : 2,
+            "ridesInGroup" : "ALWAYS",
             "daysOfWeek": [
                 4
             ]
@@ -67,7 +67,7 @@
         {
             "id" : 9,
             "userId" : 9,
-            "ridesInGroup" : 0,
+            "ridesInGroup" : "NEVER",
             "daysOfWeek": [
                 0,1,2,3,6
             ]
@@ -75,7 +75,7 @@
         {
             "id" : 10,
             "userId" : 10,
-            "ridesInGroup" : 1,
+            "ridesInGroup" : "SOMETIMES",
             "daysOfWeek": [
                 2,3,4
             ]
