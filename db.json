@@ -1,0 +1,84 @@
+{
+    "rides" : [
+        {
+            "id" : 1,
+            "userId" : 1,
+            "rides_in_group" : 0,
+            "days_of_week": [
+                0,1,2,3,4,5,6
+            ]
+        },
+        {
+            "id" : 2,
+            "userId" : 2,
+            "rides_in_group" : 1,
+            "days_of_week": [
+                0,1,2,3
+            ]
+        },
+        {
+            "id" : 3,
+            "userId" : 3,
+            "rides_in_group" : 2,
+            "days_of_week": [
+                4,5,6
+            ]
+        },
+        {
+            "id" : 4,
+            "userId" : 4,
+            "rides_in_group" : 0,
+            "days_of_week": [
+                0,1,2,3,6
+            ]
+        },
+        {
+            "id" : 5,
+            "userId" : 5,
+            "rides_in_group" : 1,
+            "days_of_week": [
+                2,3
+            ]
+        },
+        {
+            "id" : 6,
+            "userId" : 6,
+            "rides_in_group" : 0,
+            "days_of_week": [
+                0,1,3,6
+            ]
+        },
+        {
+            "id" : 7,
+            "userId" : 7,
+            "rides_in_group" : 1,
+            "days_of_week": [
+                0,2,3
+            ]
+        },
+        {
+            "id" : 8,
+            "userId" : 8,
+            "rides_in_group" : 2,
+            "days_of_week": [
+                4
+            ]
+        },
+        {
+            "id" : 9,
+            "userId" : 9,
+            "rides_in_group" : 0,
+            "days_of_week": [
+                0,1,2,3,6
+            ]
+        },
+        {
+            "id" : 10,
+            "userId" : 10,
+            "rides_in_group" : 1,
+            "days_of_week": [
+                2,3,4
+            ]
+        }
+    ]
+}
